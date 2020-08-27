@@ -1,0 +1,22 @@
+{
+  "name": "xemubot-official",
+  "version": "1.0.0",
+  "description": "XemuBot helps you with moderation, tickets, fun, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xemudev/xemubot.git"
+  },
+  "author": "Xemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xemudev/xemubot/issues"
+  },
+  "homepage": "https://github.com/xemudev/xemubot#readme",
+  "dependencies": {
+    "discord.js": "^11.6.1"
+  }
+}
